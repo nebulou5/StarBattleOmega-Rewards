@@ -8960,8 +8960,7 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-               </Instances>
-                <Instances Id="1-S2-1-322356">
+        <Instances Id="1-S2-1-322356">
             <String String="1 0 0 0 1 4224">
                 <Field Id="Rewards"/>
             </String>
