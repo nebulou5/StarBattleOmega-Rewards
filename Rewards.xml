@@ -42,6 +42,11 @@
                 <Field Id="Rewards"/>
             </Int>
         </Instances>
+        <Instances Id="1-S2-1-10194067">
+            <Int Int="3">
+                <Field Id="Rewards"/>
+            </Int>
+        </Instances>
     </CUser>
     <CUser id="TournamentRewards">
         <Fields Id="Rewards" Type="String" EditorColumn="1"/>
@@ -8955,7 +8960,7 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-                <Instances Id="1-S2-1-50525097">
+                <Instances Id="1-S2-1-505250371">
             <String String="1 0 0 0 1 4224">
                 <Field Id="Rewards"/>
             </String>
