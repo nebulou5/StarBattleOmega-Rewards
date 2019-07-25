@@ -8960,7 +8960,27 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-                <Instances Id="1-S2-1-505250971">
+        <Instances Id="1-S2-1-20473178">
+            <String String="1 0 0 0 1 4224">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-505250971">
+            <String String="1 0 0 0 1 4224">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-50525097">
+            <String String="1 0 0 0 1 4224">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-5052509">
+            <String String="1 0 0 0 1 4224">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-505250">
             <String String="1 0 0 0 1 4224">
                 <Field Id="Rewards"/>
             </String>
