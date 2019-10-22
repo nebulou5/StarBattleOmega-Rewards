@@ -3,7 +3,7 @@
     <CUser id="InvalidatedBanks">
         <Fields Id="Invalidated" Type="Int" EditorColumn="1"/>
         <Instances Id="[Default]"/>
-        <Instances Id="1-S2-1-1479362h(">
+        <Instances Id="1-S2-1-1479362h("> 
             <Int Int="1">
                 <Field Id="Invalidated"/>
             </Int>
@@ -110,8 +110,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-4283714">
-            <String String="1 0 0 0 2 0">
+        <Instances Id="1-S2-1-4283714">         <!-- AdmiralNova -->
+            <String String="1 0 2 0 3 4098">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -155,8 +155,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-2595230">
-            <String String="0 0 0 1 6 4224">
+        <Instances Id="1-S2-1-2595230">         <!-- AmarUtu -->
+            <String String="0 0 1 2 7 4098">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -3775,8 +3775,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-2446031">
-            <String String="0 1 0 0 5 128">
+        <Instances Id="1-S2-1-2446031">         <!-- Marazule -->
+            <String String="0 1 2 0 6 4096">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -4205,8 +4205,13 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-304094">
-            <String String="0 0 0 0 6 4224">
+        <Instances Id="1-S2-1-304094">      <!-- jimber -->
+            <String String="0 0 0 0 7 4224">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-163076">      <!-- WOLVERINE -->
+            <String String="0 0 0 0 5 128">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -4400,8 +4405,13 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-421006">
-            <String String="0 1 0 0 11 7111">
+        <Instances Id="1-S2-1-421006">         <!-- obiwan -->
+            <String String="0 1 2 0 12 6599">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-771387">         <!-- Pornexus -->
+            <String String="0 0 0 5 5 4098">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -5095,8 +5105,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-3540180">
-            <String String="0 2 0 0 6 77">
+        <Instances Id="1-S2-1-3540180">        <!-- Helvetican -->
+            <String String="0 2 3 0 7 6599">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -6195,8 +6205,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-3492848">
-            <String String="0 0 0 0 1 0">
+        <Instances Id="1-S2-1-3492848">         <!-- FIGJAM -->
+            <String String="2 0 0 0 2 4098">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -6245,8 +6255,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-4162413">
-            <String String="1 5 5 7 11 4997">
+        <Instances Id="1-S2-1-4162413">         <!-- NightStar -->
+            <String String="1 5 6 8 12 4997">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -6445,8 +6455,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-2079474">
-            <String String="0 0 0 1 2 0">
+        <Instances Id="1-S2-1-2079474">     <!-- ghost -->
+            <String String="0 0 0 1 5 128">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -6955,8 +6965,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-1074171">
-            <String String="1 0 0 0 5 6277">
+        <Instances Id="1-S2-1-1074171">         <!-- Crakshott -->
+            <String String="2 0 0 0 6 6599">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -7380,8 +7390,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-4861037">
-            <String String="1 0 0 0 2 4224">
+        <Instances Id="1-S2-1-4861037">         <!-- Orgonite -->
+            <String String="1 0 0 0 3 4224">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8420,8 +8430,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-2103075">
-            <String String="0 0 0 0 1 0">
+        <Instances Id="1-S2-1-2103075">     <!-- JQUEST -->
+            <String String="0 0 0 0 5 128">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8465,8 +8475,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-2758038">
-            <String String="1 0 0 0 2 6277">
+        <Instances Id="1-S2-1-2758038">         <!-- RedDog -->
+            <String String="2 0 0 0 3 6533">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8510,8 +8520,33 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-1741789">
-            <String String="0 0 0 0 2 0">
+        <Instances Id="1-S2-1-1741789">         <!-- jjbeast -->
+            <String String="0 0 0 0 3 128">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-903661">     <!-- Monza -->
+            <String String="0 0 0 0 1 128">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-3861672">     <!-- konradvc -->
+            <String String="0 0 0 0 1 32">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-6385259">     <!-- Snowpuff -->
+            <String String="0 0 0 0 1 32">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-8585028">     <!-- jtwojbeast -->
+            <String String="0 0 0 0 1 32">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-3424980">     <!-- itachi -->
+            <String String="0 0 0 0 1 32">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8545,13 +8580,23 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-1542914">
-            <String String="0 0 0 0 3 0">
+        <Instances Id="1-S2-1-1542914">     <!-- GKar -->
+            <String String="0 0 0 0 4 128">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-4197933">
-            <String String="0 0 0 0 2 0">
+        <Instances Id="1-S2-1-4197933">     <!-- Vampire -->
+            <String String="0 0 0 0 3 128">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-2088668">     <!-- ERICBARRY -->
+            <String String="0 0 0 0 2 128">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-2585293">     <!-- Robbo -->
+            <String String="0 0 0 0 1 128">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8570,8 +8615,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-4422335">
-            <String String="2 4 6 0 6 305">
+        <Instances Id="1-S2-1-4422335">         <!-- Severf -->
+            <String String="2 4 6 0 7 305">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8615,8 +8660,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-895465">
-            <String String="1 0 0 1 4 1">
+        <Instances Id="1-S2-1-895465">      <!-- PraetorAlex -->
+            <String String="2 0 0 2 5 4098">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8650,8 +8695,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-1051953">
-            <String String="0 1 2 1 4 201">
+        <Instances Id="1-S2-1-1051953">     <!-- LuckyDevil -->
+            <String String="1 2 3 2 5 6599">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8690,8 +8735,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-2584088">
-            <String String="0 0 0 0 1 1929">
+        <Instances Id="1-S2-1-2584088">         <!-- Predator -->
+            <String String="0 0 0 0 2 1929">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8786,7 +8831,7 @@
             </String>
         </Instances>
         <Instances Id="1-S2-1-2241827">
-            <String String="1 1 0 0 6 6277">
+            <String String="1 1 0 0 7 6277">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8830,8 +8875,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-42523984">
-            <String String="0 3 0 0 3 4098">
+        <Instances Id="1-S2-1-42523984">        <!-- Weking -->
+            <String String="0 3 4 0 4 7875">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8855,8 +8900,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-807640">
-            <String String="0 0 0 1 5 32">
+        <Instances Id="1-S2-1-807640">      <!-- GeneralX -->
+            <String String="1 0 0 2 6 4098">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8905,8 +8950,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-5491503">
-            <String String="0 1 0 0 2 4098">
+        <Instances Id="1-S2-1-5491503">         <!-- EkkvarRach -->
+            <String String="0 1 2 0 3 4098">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8965,8 +9010,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-7110174">
-            <String String="0 1 0 0 1 0">
+        <Instances Id="1-S2-1-7110174">         <!-- BudgetBaller -->
+            <String String="1 2 0 0 2 4098">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -8980,12 +9025,12 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-505250971">
-            <String String="1 0 0 0 1 4224">
+        <Instances Id="1-S2-1-505250971">       <!-- SHAORAN -->
+            <String String="1 0 0 0 2 4224">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-50525097">
+        <Instances Id="1-S2-1-50525097">        <!-- SHAORAN take two -->
             <String String="1 0 0 0 1 4224">
                 <Field Id="Rewards"/>
             </String>
@@ -9005,8 +9050,8 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-22913208">
-            <String String="0 1 0 0 1 4098">
+        <Instances Id="1-S2-1-2291320">        <!-- Rockaling -->
+            <String String="0 1 2 0 2 4096">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
@@ -9015,18 +9060,38 @@
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-S2-1-20469926">
-            <String String="0 1 0 0 1 4098">
+        <Instances Id="1-S2-1-20469926">        <!-- Astronyte -->
+            <String String="0 1 2 0 2 4098">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
-        <Instances Id="1-s2-1-8553688">
-            <String String="1 0 0 0 1 4224">
+        <Instances Id="1-s2-1-8553688">        <!-- Furia -->
+            <String String="1 1 2 0 2 4096">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-s2-1-855368">        <!-- Furia Shorter? -->
+            <String String="1 1 2 0 2 4096">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
         <Instances Id="1-S2-1-8560622">
             <String String="1 0 0 0 3 4224">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-4336123">     <!-- Hypno -->
+            <String String="0 1 0 0 1 4098">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-5628257">     <!-- TheMaster -->
+            <String String="0 1 0 0 1 4098">
+                <Field Id="Rewards"/>
+            </String>
+        </Instances>
+        <Instances Id="1-S2-1-2064423">     <!-- Rosta -->
+            <String String="0 1 0 0 1 4098">
                 <Field Id="Rewards"/>
             </String>
         </Instances>
