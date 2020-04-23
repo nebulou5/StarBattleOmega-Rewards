@@ -37,22 +37,13 @@
                 <Field Id="Rewards"/>
             </Int>
         </Instances>
-        <Instances Id="1-S2-1-10194067My">
-            <Int Int="3">
-                <Field Id="Rewards"/>
-            </Int>
-        </Instances>
-        <Instances Id="1-S2-1-10194067">
-            <Int Int="3">
-                <Field Id="Rewards"/>
-            </Int>
-        </Instances>
         <Instances Id="1-S2-1-1019406">
             <Int Int="3">
                 <Field Id="Rewards"/>
             </Int>
         </Instances>
-        <Instances Id="1-S2-1-101940">
+        <!-- GreaterNinja (blackmagic smurf) -->
+        <Instances Id="1-S2-1-7863858">
             <Int Int="3">
                 <Field Id="Rewards"/>
             </Int>
