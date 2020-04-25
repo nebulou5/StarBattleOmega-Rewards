@@ -13,6 +13,12 @@
                 <Field Id="Invalidated"/>
             </Int>
         </Instances>
+	<!-- Hacker -->
+        <Instances Id="1-S2-1-5992538">
+            <Int Int="1">
+                <Field Id="Invalidated"/>
+            </Int>
+        </Instances>
     </CUser>
     <CUser id="SpecialRewards">
         <Fields Id="Rewards" Type="Int" EditorColumn="1"/>
