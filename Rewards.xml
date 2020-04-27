@@ -55,6 +55,12 @@
                 <Field Id="Rewards"/>
             </Int>
         </Instances>
+        <!-- blackmagic -->
+        <Instances Id="1-S2-1-8066492">
+            <Int Int="3">
+                <Field Id="Rewards"/>
+            </Int>
+        </Instances>
     </CUser>
     <CUser id="TournamentRewards">
         <Fields Id="Rewards" Type="String" EditorColumn="1"/>
